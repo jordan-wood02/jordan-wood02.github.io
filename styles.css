@@ -38,6 +38,10 @@ h1:hover {
     color:#008000;
 }
 
+h2{
+    text-align: center;
+}
+
 a {
     text-decoration:none;
     color:#800080;
